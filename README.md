@@ -1,6 +1,7 @@
 # ITADATAhack2023 - Team Monty Hall
 ### Introduction
 This repository recounts the participation of our team, made up of data science students from the University of Perugia, at ITADATAhack 2023, a national event dedicated to innovation in the field of data. The challenge was divided into three days, with increasing difficulty day after day.
+![Testo alternativo](Photo)
 
 ## Day 1
 During the first day of the competition we were presented with a balanced dataset (containing duplicates). Our goal was to address a multiclass problem with a single output, where the label corresponded to the single chapter of the law.
