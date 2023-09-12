@@ -1,18 +1,17 @@
 # ITADATAhack2023
-![Testo alternativo](https://media.licdn.com/dms/image/D4D22AQE_SFjow8o4Gg/feedshare-shrink_800/0/1693561463677?e=1696464000&v=beta&t=Ii7oL0phKMWVhqDPbIYw21HQkyz177JUZQqc_ieJmyY | 1000)
 ### Monty Hall Team
-This repository documents the participation of our team of data scientist students from the University of Perugia in the ITADATAhack 2023, a national event dedicated to innovation in the field of data!
+This repository recounts the participation of our team, made up of data science students from the University of Perugia, at ITADATAhack 2023, a national event dedicated to innovation in the field of data. The challenge was divided into three days, with increasing difficulty day after day.
 
 ## Day 1
-On the first day of the competition, we were presented with a balanced dataset containing duplicates. Our goal was to tackle a multiclass problem with a single output, where the label corresponded to the individual chapter of the law.
+During the first day of the competition we were presented with a balanced dataset (containing duplicates). Our goal was to address a multiclass problem with a single output, where the label corresponded to the single chapter of the law.
 
 ## Day 2
-Day two introduced a new challenge. The dataset provided was unbalanced, and we had to address a multiclass problem with a single output, where the label now corresponded to both the chapter and subchapter of the law, totaling 87 labels.
+During the second day of the competition we were presented with an unbalanced data set. Our goal was to address a multiclass problem with a single output, where the label corresponded to both the chapter and the subchapter of the law, for a total of 87 labels.
 
-## Day 3
-The final day of the competition posed another twist. We were presented with an unbalanced dataset, and the goal was to solve a multioutput multiclass problem. Our task was to predict the possible pairs of chapter and subchapter to which the law belonged.
+##Day 3
+During the third day of the competition we were presented with an unbalanced data set. Our goal was to address a multiclass problem with multiple outputs. Our task was to predict the possible pairs of chapter and subchapter to which the law belonged.
 
 ## Conclusion
-Our journey in ITADATAhack 2023 competition was a great experience. We hope this README provides insight into our approach and the increasing difficulty of the competition. Please feel free to explore our code and results.
+Participating in ITADATAhack 2023 was a great experience that allowed us to learn about and improve some aspects of Data Science. We hope this README provides helpful insights into the approach our team uses! Please feel free to explore our code and results.
 ___
 For further information, check [here](./Final_Presentation.pdf)
