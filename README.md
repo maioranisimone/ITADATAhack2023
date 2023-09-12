@@ -6,7 +6,9 @@ This repository recounts the participation of our team, made up of data science 
 ### How we prepared
 Before the challenge we prepared a repository containing a small set of functions for any eventuality, you can find the repo in [NLP toolkit repo](https://github.com/Arcaici/NLP_toolkit)
 
-![Testo alternativo](Photo.jpeg)
+<p align="center">
+  <img width="600" height="600" src="ItadataBanner.jpg">
+</p>
 
 ## Challenges
 The challenge was divided into three days, with increasing difficulty day after day. Each day a new challenge was starting but all challenges ended 24 hour after the begin of the third one.
