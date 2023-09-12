@@ -1,6 +1,6 @@
 # ITADATAhack2023 - Team Monty Hall
 ### Introduction
-This repository recounts the participation of our team, made up of data science students from the University of Perugia, at ITADATAhack 2023, a national event dedicated to innovation in the field of data. The challenge was divided into three days, with increasing difficulty day after day. Before the challenge we prepared a repository containing a small set of functions for any eventuality, you can find the repo in (https://github.com/Arcaici/NLP_toolkit)[NLP toolkit]
+This repository recounts the participation of our team, made up of data science students from the University of Perugia, at ITADATAhack 2023, a national event dedicated to innovation in the field of data. The challenge was divided into three days, with increasing difficulty day after day. Before the challenge we prepared a repository containing a small set of functions for any eventuality, you can find the repo in [NLP toolkit repo](https://github.com/Arcaici/NLP_toolkit)
 
 ![Testo alternativo](Photo.jpeg)
 
