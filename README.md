@@ -1,5 +1,5 @@
 # ITADATAhack2023
-![photo](https://media.licdn.com/dms/image/D4D22AQE_SFjow8o4Gg/feedshare-shrink_800/0/1693561463677?e=1696464000&v=beta&t=Ii7oL0phKMWVhqDPbIYw21HQkyz177JUZQqc_ieJmyY)
+![Testo alternativo](https://media.licdn.com/dms/image/D4D22AQE_SFjow8o4Gg/feedshare-shrink_800/0/1693561463677?e=1696464000&v=beta&t=Ii7oL0phKMWVhqDPbIYw21HQkyz177JUZQqc_ieJmyY | 1000)
 ### Monty Hall Team
 This repository documents the participation of our team of data scientist students from the University of Perugia in the ITADATAhack 2023, a national event dedicated to innovation in the field of data!
 
