@@ -22,6 +22,13 @@ During the second day of the competition we were presented with an unbalanced da
 ### Day 3
 During the third day of the competition we were presented with an unbalanced data set. Our goal was to address a multiclass problem with multiple outputs. Our task was to predict the possible pairs of chapter and subchapter to which the law belonged.
 
+## Final Rank
+DAY1, DAY2 and DAY3 are the scores obtained during the 3 days of hackathon. P1 is the average of the 3 days. P2 Is the score assigned by the external commission and P3 is the score obtained with the final presentation.
+
+<p align="center">
+  <img  src="FINALRANKITADATAhack.png">
+</p>
+
 ## Conclusion
 Participating in ITADATAhack 2023 was a great experience that allowed us to learn about and improve some aspects of Data Science. We hope this README provides helpful insights into the approach our team uses! Please feel free to explore our code and results.
 ___
