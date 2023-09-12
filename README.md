@@ -4,7 +4,7 @@
 This repository recounts the participation of our team, made up of data science students from the University of Perugia, at ITADATAhack 2023, a national event dedicated to innovation in the field of data. 
 
 ### How we prepared
-Before the challenge we prepared a repository containing a small set of functions for any eventuality, you can find the repo in [NLP toolkit repo](https://github.com/Arcaici/NLP_toolkit)
+Before the challenge we prepared a repository containing a small set of functions for any eventuality, you can find the repo in [NLP toolkit](https://github.com/Arcaici/NLP_toolkit)
 
 <p align="center">
   <img width="600" height="600" src="ItadataBanner.jpg">
